@@ -58,5 +58,13 @@ Gunakan kombinasi Keyboard dan Mouse untuk berinteraksi:
 * **Library:** FreeGLUT / GLUT
 * **IDE:** Visual Studio / Code::Blocks / VS Code
 
----
+## ▶️ Cara Menjalankan Program
+
+Berikut langkah-langkah untuk menjalankan project ini:
+
+1. Pastikan sudah menginstall compiler C++ (MinGW / GCC)
+2. Pastikan library OpenGL dan FreeGLUT sudah terpasang
+3. Compile file `TugasPraktikum.cpp`
+4. Jalankan hasil compile
+
 **Tugas Akhir Praktikum Grafika Komputer** *Teknik Informatika - Universitas Negeri Surabaya*
