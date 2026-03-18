@@ -67,4 +67,8 @@ Berikut langkah-langkah untuk menjalankan project ini:
 3. Compile file `TugasPraktikum.cpp`
 4. Jalankan hasil compile
 
+## ⚠️ Troubleshooting
+- Jika error `freeglut.h not found` → pastikan library FreeGLUT sudah terinstall
+- Jika layar hitam → cek driver OpenGL sudah terupdate
+
 **Tugas Akhir Praktikum Grafika Komputer** *Teknik Informatika - Universitas Negeri Surabaya*
